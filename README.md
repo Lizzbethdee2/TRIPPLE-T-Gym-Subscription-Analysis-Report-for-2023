@@ -1,6 +1,9 @@
 # TRIPPLE-T-Gym-Subscription-Analysis-Report-for-2023
 The dashboard gives a complete view of subscription trends, demographics, plan preferences, workout types, and user behaviors for TRIPPLE-T Gym in 2023
+
 Key Metrics Overview
+![GYM SUB](https://github.com/user-attachments/assets/f2521c74-c597-4615-856f-cd5fbd3bdde6)
+
 Metric	Value	Insight
 💵 Total Monthly Revenue	133.71K	Indicates strong revenue base.
 🔥 Total Calories Burned	4M	High activity level—strong member engagement.
